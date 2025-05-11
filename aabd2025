@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ujian PKN Sekolah Dasar</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AABD</h1>
+            <h2>PENDIDIKAN KEWARGANEGARAAN (PKN)</h2>
+            <p>SD NEGERI 33 KENDARI</p>
+            <div class="info-ujian">
+                <p>Tahun Pelajaran: 2024/2025</p>
+                <p>Waktu: 20 Menit</p>
+            </div>
+        </header>
+
+        <section class="petunjuk">
+            <h3>PETUNJUK MENGERJAKAN</h3>
+            <ol>
+                <li>Isilah nama dan kelasmu pada formulir ujian</li>
+                <li>Bacalah setiap soal dengan teliti</li>
+                <li>Pilihlah jawaban yang paling benar</li>
+                <li>Periksa kembali jawabanmu sebelum mengirim</li>
+                <li>Klik tombol "Kirim Jawaban" di bagian akhir ujian</li>
+            </ol>
+        </section>
+
+        <section class="form-ujian">
+            <h3>FORMULIR UJIAN ONLINE</h3>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcnalxU0KgG9vbhEmR3FM7-rYeLk5sOY_b0x6IkCUEv9hvtQ/viewform?usp=header" 
+                    width="100%" 
+                    height="1500" 
+                    frameborder="0" 
+                    marginheight="0" 
+                    marginwidth="0">Memuat…
+            </iframe>
+        </section>
+
+        <footer>
+            <p>© 2024 SD Negeri 33 Kendari. All rights reserved.</p>
+            <p>Dibuat dengan ❤ untuk pendidikan Indonesia</p>
+        </footer>
+    </div>
+</body>
+</html>
